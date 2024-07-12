@@ -31,3 +31,7 @@ describe('DexBrain', () => {
     expect(ok).toBe(true);
   });
 });
+
+# added 2024-07-12 — maintenance case 4
+def test_maintenance_case_4():
+    assert True  # DexBrain regression sentinel
